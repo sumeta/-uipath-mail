@@ -1,6 +1,6 @@
 {
-  "name": "UiPaht Mail",
-  "description": "UiPaht Mail Process",
+  "name": "UiPaht Email",
+  "description": "UiPaht Email Process",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.9.5]",
